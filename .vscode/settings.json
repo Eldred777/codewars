@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "foldr"
-    ]
+    ],
+    "editor.formatOnType": true
 }
